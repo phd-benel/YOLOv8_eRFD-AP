@@ -28,7 +28,9 @@ Original + Fog : https://universe.roboflow.com/search?q=idid_fog&t=metadata
 The architecture of the enhanced YOLOv8 model will be upload soon. This is to protect the integrity of the contributions made in this research.
 
 ### Experimental settings
-The experimental settings can be found at the following link from the ClearML MLOPS platform : https://app.clear.ml/projects/3e329ae202b44751b59e719885763bef/compare-experiments;ids=01c45d6172d94914861e5b7e22109b91,fa243612b16542a283cc981d8e51959f,937da49598ce4913b11a404ee7db48a4,4d7d8915247e4cbfa80ee5c8df7eb946,1abdcb6b50734da9be7263a4a4865b57/scalars/graph
+The experimental settings can be found at the following link from the ClearML MLOPS platform : 
+https://app.clear.ml/projects/3e329ae202b44751b59e719885763bef/compare-experiments;ids=01c45d6172d94914861e5b7e22109b91,fa243612b16542a283cc981d8e51959f,937da49598ce4913b11a404ee7db48a4,4d7d8915247e4cbfa80ee5c8df7eb946,1abdcb6b50734da9be7263a4a4865b57,6ae6d3368dc048b49faf4237da6689e4,e3d71319f244482b97073575797c34e2,a94b5129ffa944128e4c6dbde4ac7b95,e732ec649d6941038357fb428011356a,a5cdd1782be14d02a75d8e86c09526b9/scalars/graph
+
 ### Code
 The source code for the enhanced YOLOv8 model will be made publicly available upon acceptance of the paper to **IEEE Access**. This is to protect the integrity of the contributions made in this research.
 
