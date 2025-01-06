@@ -11,17 +11,7 @@ The integration of drones equipped with artificial intelligence (AI) and compute
 ### Data
 The dataset used in this study consists of weather-affected images of insulators and can be accessed at the following link: 
 
-
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/dead223b-3855-401d-9ec4-4194cfe24b55) Original : https://universe.roboflow.com/search?q=idid_original&t=metadata
-
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/181fec43-d13c-4af8-9aca-9d034e5d7cad)Original + Rain : https://universe.roboflow.com/search?q=idid_rain&t=metadata
-
-
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/02c09780-c3e1-4844-b3c5-ccf72acbf797)Original + Snow : https://universe.roboflow.com/search?q=idid_snow&t=metadata
-
-
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/79de1b4d-7873-44b6-b845-81fca2e6377c)
-Original + Fog : https://universe.roboflow.com/search?q=idid_fog&t=metadata
+https://github.com/phd-benel/weather_powerline_insulator
 
 ### Model Architecture
 
