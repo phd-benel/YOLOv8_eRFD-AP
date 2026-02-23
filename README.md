@@ -28,7 +28,7 @@ Please, run this Colab notebook to replicate the results obtained : https://cola
 ### Visualization
 <img width="820" height="815" alt="image" src="https://github.com/user-attachments/assets/38d24f20-ac46-4ae3-b163-c5941a5d71e9" />
 
-<img width="670" height="820" alt="image" src="https://github.com/user-attachments/assets/053c01b5-4411-4ad7-baa1-e1cc1f1ea527" />
+<img width="820" height="815" alt="image" src="https://github.com/user-attachments/assets/053c01b5-4411-4ad7-baa1-e1cc1f1ea527" />
 
 ### Citation
 
