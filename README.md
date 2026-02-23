@@ -15,17 +15,21 @@ https://github.com/phd-benel/weather_powerline_insulator
 
 ### Model Architecture
 
-The architecture of the enhanced YOLOv8 model will be upload soon. This is to protect the integrity of the contributions made in this research.
+![benel2-3593201-large](https://github.com/user-attachments/assets/904988cf-8333-4fb9-8e92-b4dc468cfa87)
 
 ### Experimental settings
 The experimental settings can be found at the following link from the ClearML MLOPS platform : 
 https://app.clear.ml/projects/3e329ae202b44751b59e719885763bef/compare-experiments;ids=01c45d6172d94914861e5b7e22109b91,fa243612b16542a283cc981d8e51959f,937da49598ce4913b11a404ee7db48a4,4d7d8915247e4cbfa80ee5c8df7eb946,1abdcb6b50734da9be7263a4a4865b57,6ae6d3368dc048b49faf4237da6689e4,e3d71319f244482b97073575797c34e2,a94b5129ffa944128e4c6dbde4ac7b95,e732ec649d6941038357fb428011356a,a5cdd1782be14d02a75d8e86c09526b9/scalars/graph
 
 ### Code
-The source code for the enhanced YOLOv8 model will be made publicly available upon acceptance of the paper to **IEEE Access**. This is to protect the integrity of the contributions made in this research.
+
+Please, run this Colab notebook to replicate the results obtained :
 
 ### Citation
-The paper is currently under review for publication in **IEEE Access**. Once accepted, please cite the paper using the following format (to be updated).
+
+B. -E. Benelmostafa, R. Aitelhaj and H. Medromi, "YOLOv8-eRFD-AP: A Novel Domain Generalization Model for UAV-Based Insulator Inspection Under Adverse Weather Conditions," in IEEE Access, vol. 13, pp. 135336-135358, 2025, doi: 10.1109/ACCESS.2025.3593201.
+keywords: {Meteorology;Inspection;YOLO;Autonomous aerial vehicles;Computational modeling;Accuracy;Training;Real-time systems;Drones;Artificial intelligence;Automatic optical inspection;adaptation models;anomaly detection;object detection;deep learning;computer vision},
+
 
 ### License
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Please refer to the `LICENSE.md` file for detailed information.
