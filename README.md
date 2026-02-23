@@ -25,6 +25,10 @@ https://app.clear.ml/projects/3e329ae202b44751b59e719885763bef/compare-experimen
 
 Please, run this Colab notebook to replicate the results obtained : https://colab.research.google.com/drive/1G1WKXi3xQO2uzXxrXsWym00fVp2FBit4?usp=sharing
 
+### Visualization
+
+<img width="670" height="820" alt="image" src="https://github.com/user-attachments/assets/053c01b5-4411-4ad7-baa1-e1cc1f1ea527" />
+
 ### Citation
 
 B. -E. Benelmostafa, R. Aitelhaj and H. Medromi, "YOLOv8-eRFD-AP: A Novel Domain Generalization Model for UAV-Based Insulator Inspection Under Adverse Weather Conditions," in IEEE Access, vol. 13, pp. 135336-135358, 2025, doi: 10.1109/ACCESS.2025.3593201.
