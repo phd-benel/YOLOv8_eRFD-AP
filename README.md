@@ -23,7 +23,7 @@ https://app.clear.ml/projects/3e329ae202b44751b59e719885763bef/compare-experimen
 
 ### Code
 
-Please, run this Colab notebook to replicate the results obtained :
+Please, run this Colab notebook to replicate the results obtained : https://colab.research.google.com/drive/1G1WKXi3xQO2uzXxrXsWym00fVp2FBit4?usp=sharing
 
 ### Citation
 
