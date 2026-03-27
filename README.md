@@ -2,7 +2,7 @@
 
 Hy, Peace be upon you,
 
-This repository contains the source code for the paper, **"Enhanced YOLOv8 for Robust Insulator Power Line Inspection: A Novel Approach to Weather-Resilient Anomaly Detection"**, accepted in **IEEE Access** on September 22, 2024. 
+This repository contains the source code for the paper, **"Enhanced YOLOv8 for Robust Insulator Power Line Inspection: A Novel Approach to Weather-Resilient Anomaly Detection"**, accepted in **IEEE Access**. 
 
 ### Paper Abstract
 
